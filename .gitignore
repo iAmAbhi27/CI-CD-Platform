@@ -1,0 +1,13 @@
+.env
+data/
+target/
+node_modules/
+dist/
+build/
+*.log
+.idea/
+.vscode/
+*.iml
+.DS_Store
+*.tfstate*
+.terraform/
